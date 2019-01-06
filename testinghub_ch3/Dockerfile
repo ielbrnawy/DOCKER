@@ -1,4 +1,3 @@
-# Ibrahim ELBRNAWY
 FROM alpine:latest
 LABEL maintainer="Russ McKendrick <russ@mckendrick.io>"
 LABEL description="This example Dockerfile installs NGINX."
